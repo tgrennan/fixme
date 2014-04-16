@@ -5,7 +5,7 @@
 /*
 Package fixme provides conditional printing for benignly littering code under
 development with debug information and simple reminders.  Unless enabled, each
-closure is a return stub.  Once enabled, these log,
+closure is a return stub; once enabled, these log:
 
 	FILE:LINE FIXME ...
 */
